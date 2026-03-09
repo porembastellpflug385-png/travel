@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 
 // Placeholder for API Key. The environment will inject this at runtime.
-const apiKey = "";
+const apiKey = "AIzaSyCThO5c1qtKnMnf-qCHnvXP3PP2ABwEsMk";
 
 /**
  * Fetch wrapper with exponential backoff for API calls.
