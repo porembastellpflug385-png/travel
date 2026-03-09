@@ -6,7 +6,7 @@ import {
 } from 'lucide-react';
 
 // --- 配置区域 ---
-const apiKey = ""; // 在此填入你的第三方 API Key
+const apiKey = "sk-gh2faPfTmPUNdlvydWntx2XlZ4UJ3fXpAiuObwzmA45RC8ci";
 const apiUrl = "https://openai.1pix.fun/v1/chat/completions"; // 第三方转发地址
 const modelName = "deepseek-v3.2-exp"; // 使用的模型名称
 const appId = 'cube-travel-expense-v2';
